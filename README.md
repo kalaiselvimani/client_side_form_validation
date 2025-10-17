@@ -5,6 +5,7 @@ This project demonstrates client-side form validation using JavaScript (or a fra
 Features:
 
 •Validation for various input types: text, email, password, phone number, date, etc.
+
 •Real-time feedback with error messages.
 •Custom validation rules (e.g., password strength, email format).
 •Prevents form submission if validation fails.
